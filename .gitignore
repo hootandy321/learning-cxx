@@ -5,3 +5,6 @@
 
 .*/
 !/.github/
+
+# Test binaries
+exercises/test_*
